@@ -4,20 +4,10 @@
   ],
   "imageSize": 100,
   "commit": false,
-  "contributors": [
-    {
-      "login": "good-idea",
-      "name": "Joseph Thomas",
-      "avatar_url": "https://avatars.githubusercontent.com/u/11514928?v=4",
-      "profile": "https://www.good-idea.studio",
-      "contributions": [
-        "blog"
-      ]
-    }
-  ],
+  "contributors": [],
   "contributorsPerLine": 7,
-  "projectName": "oss-workshop",
-  "projectOwner": "sanctuarycomputer",
+  "projectName": "oss-workshop-toolkit",
+  "projectOwner": "devinhalladay",
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true
