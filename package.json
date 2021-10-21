@@ -1,6 +1,6 @@
 {
-  "name": "oss-workshop",
-  "author": "Joseph Thomas",
+  "name": "@devinhalladay/oss-workshop-toolkit",
+  "author": "Devin Halladay",
   "module": "dist/oss-demo.esm.js",
   "version": "1.0.0",
   "license": "MIT",
